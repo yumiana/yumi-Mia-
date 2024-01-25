@@ -7,23 +7,6 @@
 
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/yumiana/)](https://github.com/yumiana/)  -->
 
-## 💬 About me
-🌱 I hold a diverse academic background with a major in Economics & Finance, specializing in Corporate Finance, and a minor in Biz. Additionally, I pursued a major in Computer Science, currently in progress, emphasizing my commitment to gaining a comprehensive understanding of both business and technology.
-
-📈 My academic journey expanded beyond traditional business studies, leading me to delve into the intricacies of business management with a unique focus on data analysis and experimentation.
-
-💡 I am passionate about navigating real-world complexities, particularly in the practical handling of extensive datasets encountered in day-to-day business operations. My expertise lies in organizing and extracting meaningful insights from vast amounts of data, structuring critical elements of a company's operational activities, and aligning thought processes to make informed and strategic decisions.
-
-💻 Currently, I am immersed in the study of web backend development, with a specific emphasis on utilizing Node.js. This professional journey has led me to explore the intersection of data-driven decision-making and blockchain technology, aligning with my passion for creating innovative solutions. In particular, I am keenly interested in contributing to the rapidly evolving field of decentralized finance (DeFi).
-
-🚀 As I aspire to transition into the role of a software engineer, I am actively seeking opportunities to embark on a new chapter in my career. My goal is to bring my expertise in data analysis and investment decision analysis to the realm of software development, especially focusing on implementing financial models into practical, real-world services.
-
-🎨 Additionally, as a hobby, I enjoy creating particle drawings and developing mini-games using HTML5 canvas. My fascination with web3.0 technology, particularly the metaverse, has inspired me to explore rendering realistic graphics. I am proficient in using tools like three.js and r3f to bring immersive and lifelike experiences to life.
-
-❤️ I love to code, read and play tennis 
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mia-n-a33215267/) or check out my portfolio for more details about my projects and experiences. Happy coding! 👩‍💻✨
-
 ## SKILLSETS
 
 ### Languages:
@@ -93,3 +76,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*** 
+## 💬 About me
+🌱 I hold a diverse academic background with a major in Economics & Finance, specializing in Corporate Finance, and a minor in Biz. Additionally, I pursued a major in Computer Science, currently in progress, emphasizing my commitment to gaining a comprehensive understanding of both business and technology.
+
+📈 My academic journey expanded beyond traditional business studies, leading me to delve into the intricacies of business management with a unique focus on data analysis and experimentation.
+
+💡 I am passionate about navigating real-world complexities, particularly in the practical handling of extensive datasets encountered in day-to-day business operations. My expertise lies in organizing and extracting meaningful insights from vast amounts of data, structuring critical elements of a company's operational activities, and aligning thought processes to make informed and strategic decisions.
+
+💻 Currently, I am immersed in the study of web backend development, with a specific emphasis on utilizing Node.js. This professional journey has led me to explore the intersection of data-driven decision-making and blockchain technology, aligning with my passion for creating innovative solutions. In particular, I am keenly interested in contributing to the rapidly evolving field of decentralized finance (DeFi).
+
+🚀 As I aspire to transition into the role of a software engineer, I am actively seeking opportunities to embark on a new chapter in my career. My goal is to bring my expertise in data analysis and investment decision analysis to the realm of software development, especially focusing on implementing financial models into practical, real-world services.
+
+🎨 Additionally, as a hobby, I enjoy creating particle drawings and developing mini-games using HTML5 canvas. My fascination with web3.0 technology, particularly the metaverse, has inspired me to explore rendering realistic graphics. I am proficient in using tools like three.js and r3f to bring immersive and lifelike experiences to life.
+
+❤️ I love to code, read and play tennis 
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mia-n-a33215267/) or check out my portfolio for more details about my projects and experiences. Happy coding! 👩‍💻✨
