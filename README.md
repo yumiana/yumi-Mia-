@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-yumiana428@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:yumiana428@gmail.com) 
 [![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://yumiana.github.io/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://yumiana.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/yumiana)
+
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/yumiana/)](https://github.com/yumiana/)  -->
 
 ## 💬 About me
