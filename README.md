@@ -24,13 +24,57 @@
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mia-n-a33215267/) or check out my portfolio for more details about my projects and experiences. Happy coding! 👩‍💻✨
 
+## SKILLSETS
+
+### Languages:
+- JavaScript (JS)
+- TypeScript (TS)
+- Python
+- Solidity
+- Rust
+
+### Runtime & Frameworks:
+- Node.js
+- Express.js
+- Nest.js
+
+### ORM (Object-Relational Mapping):
+- Sequelize
+- TypeORM
+
+### Database:
+- MySQL
+- MongoDB
+
+### Blockchain Technologies Experiences:
+#### Solidity
+- Token Issuance:
+  - ERC-20 ICO
+  - ERC-721 NFT
+
+- Dapp Development:
+  - DeFi Applications
+  - NFT Marketplaces
+  - Betting Platforms
+  - Clone Coding Projects
+
+#### Rust:
+- Dapp Development, especially in DeFi:
+  - Uniswap Clone
+
+### Additional Skills:
+- Excel
+- Git
+- Financial Modeling
+- Computational Art, Visual interaction
+
 #### 🎖️ Problem Solving(C++)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=n_yu)](https://www.acmicpc.net/user/n_yu)
 
 #### 🛠️ Github Stats
 <p>
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yumiana&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiana&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=yumiana&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/yumiana/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumiana&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/yumiana/github-readme-stats)   -->
