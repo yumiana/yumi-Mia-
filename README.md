@@ -8,63 +8,24 @@
 <!-- [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/yumiana/)](https://github.com/yumiana/)  -->
 
 ## 💬 About me
-🌱 I graduated with a major in economics & finance, specializing in corporate finance, accounting, and consumer behavior as my minor. My academic journey expanded beyond traditional business studies, leading me to delve into the intricacies of business management with a unique focus on data analysis and experimentation.
+🌱 I hold a diverse academic background with a major in Economics & Finance, specializing in Corporate Finance, and a minor in Biz. Additionally, I pursued a major in Computer Science, currently in progress, emphasizing my commitment to gaining a comprehensive understanding of both business and technology.
 
-📈 I am passionate about navigating through real-world complexities, particularly in the practical handling of extensive datasets encountered in day-to-day business operations. My expertise lies in organizing and extracting meaningful insights from vast amounts of data. This includes structuring the critical elements of a company's operational activities, refining details, and aligning the thought process to make informed and strategic decisions.
+📈 My academic journey expanded beyond traditional business studies, leading me to delve into the intricacies of business management with a unique focus on data analysis and experimentation.
 
-💡 In a corporate setting, I excel at structuring and synthesizing substantial volumes of information. My ability to derive meaning from diverse datasets and distill key factors essential to a company's business activities showcases my adeptness in handling practical, real-world challenges. This experience has equipped me with the skills to structure and refine essential aspects of a company's operations.
+💡 I am passionate about navigating real-world complexities, particularly in the practical handling of extensive datasets encountered in day-to-day business operations. My expertise lies in organizing and extracting meaningful insights from vast amounts of data, structuring critical elements of a company's operational activities, and aligning thought processes to make informed and strategic decisions.
 
-💻 Currently, I am dedicated to studying web backend development and working as an engineer, combining my passion for data-driven decision-making with blockchain technology to contribute to innovative solutions.
+💻 Currently, I am immersed in the study of web backend development, with a specific emphasis on utilizing Node.js. This professional journey has led me to explore the intersection of data-driven decision-making and blockchain technology, aligning with my passion for creating innovative solutions. In particular, I am keenly interested in contributing to the rapidly evolving field of decentralized finance (DeFi).
 
-🎨 As a hobby, I enjoy creating particle drawings and developing mini-games using HTML5 canvas. Additionally, my fascination with web3.0 technology, particularly the metaverse, has inspired me to explore rendering realistic graphics. I am proficient in using tools like three.js and r3f to bring immersive and lifelike experiences to life.
+🚀 As I aspire to transition into the role of a software engineer, I am actively seeking opportunities to embark on a new chapter in my career. My goal is to bring my expertise in data analysis and investment decision analysis to the realm of software development, especially focusing on implementing financial models into practical, real-world services.
+
+🎨 Additionally, as a hobby, I enjoy creating particle drawings and developing mini-games using HTML5 canvas. My fascination with web3.0 technology, particularly the metaverse, has inspired me to explore rendering realistic graphics. I am proficient in using tools like three.js and r3f to bring immersive and lifelike experiences to life.
 
 ❤️ I love to code, read and play tennis 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mia-n-a33215267/) or check out my portfolio for more details about my projects and experiences. Happy coding! 👩‍💻✨
 
-#### 🎖️ Ranking
+#### 🎖️ Problem Solving(C++)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=n_yu)](https://www.acmicpc.net/user/n_yu)
-
-#### ⏲️ Work Stats
-<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yumiana)](https://wakatime.com/@yumiana) -->
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-🌆 Daytime                339 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-🌃 Evening                660 commits         ████████████░░░░░░░░░░░░░   49.14 % 
-🌙 Night                  259 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   280 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Tuesday                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Wednesday                210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Thursday                 242 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Sunday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Docker                   46 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Bash                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Other                    38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-SSH Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-```
-
-
-<!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
 <p>
