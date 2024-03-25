@@ -10,40 +10,15 @@
 ## SKILLSETS
 
 ### Languages:
-- JavaScript (JS)
-- TypeScript (TS)
 - Python
-- Solidity
-- Rust
-
-### Runtime & Frameworks:
-- Node.js
-- Express.js
-- Nest.js
-
-### ORM (Object-Relational Mapping):
-- Sequelize
-- TypeORM
+- Scala
+- Java
 
 ### Database:
 - MySQL
 - MongoDB
 
-### Blockchain Technologies Experiences:
-#### Solidity
-- Token Issuance:
-  - ERC-20 ICO
-  - ERC-721 NFT
-
-- Dapp Development:
-  - DeFi Applications
-  - NFT Marketplaces
-  - Betting Platforms
-  - Clone Coding Projects
-
-#### Rust:
-- Dapp Development, especially in DeFi:
-  - Uniswap Clone
+### Data Engineering Experiences:
 
 ### Additional Skills:
 - Excel
@@ -51,16 +26,6 @@
 - Financial Modeling
 - Computational Art, Visual interaction
 
-#### 🎖️ Problem Solving(C++)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=n_yu)](https://www.acmicpc.net/user/n_yu)
-
-#### 🛠️ Github Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yumiana&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumiana&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=yumiana&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/yumiana/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumiana&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/yumiana/github-readme-stats)   -->
 
 <!--
 **yumiana/yumiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -91,6 +56,6 @@ Here are some ideas to get you started:
 
 🎨 Additionally, as a hobby, I enjoy creating particle drawings and developing mini-games using HTML5 canvas. My fascination with web3.0 technology, particularly the metaverse, has inspired me to explore rendering realistic graphics. I am proficient in using tools like three.js and r3f to bring immersive and lifelike experiences to life.
 
-❤️ I love to code, read and play tennis 
+❤️ I love Philosophy, to read, Play Bass and tennis 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mia-n-a33215267/) or check out my portfolio for more details about my projects and experiences. Happy coding! 👩‍💻✨
